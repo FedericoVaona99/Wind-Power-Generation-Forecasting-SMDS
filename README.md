@@ -1,5 +1,5 @@
 # Wind-Power-Generation-Forecasting-SMDS (Germany, 2017–2019)
-# Project for the Statistical Models for Data Science Course of UNIVR
+## Project for the Statistical Models for Data Science Course of UNIVR
 
 This project focuses on the analysis and forecasting of daily wind power generation in Germany between 2017 and 2019. 
 The goal is to build a complete time series forecasting pipeline and predict wind energy production for December 2019 using different statistical models.
